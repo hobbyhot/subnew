@@ -86,11 +86,5 @@ docker run --name sublink -p 8000:5000 \
 
     docker exec -it sublink bash -c "python init_user_pw.py; exit"
 
-本人电报联系：@toutie_1
 
-电报群组:https://t.me/+u6gLWF0yP5NiZWQ1
-
-USDT打赏：
-
-![Alt Text](readme/img.png)
 
